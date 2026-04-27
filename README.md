@@ -23,9 +23,11 @@ Designed for the "Solana Trenches", this tool serves as the perfect front-end or
 
 ## 📸 Preview
 
-![OXBLOCK TRACKER Interface](<img width="1767" height="885" alt="screen" src="https://github.com/user-attachments/assets/4c56a93a-f4b8-4c70-9c46-728718196812" />
-)
-*(Interface showing real-time POOL_DETECTED logs and transaction signatures)*
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4c56a93a-f4b8-4c70-9c46-728718196812" alt="OXBLOCK TRACKER Interface" width="100%">
+</p>
+
+> _Interface showing real-time POOL_DETECTED logs and transaction signatures._
 
 ---
 
